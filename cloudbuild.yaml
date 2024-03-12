@@ -17,7 +17,7 @@ steps:
     args:
       - 'run'
       - 'deploy'
-      - 'devops-lab2-shijin'
+      - 'devops-lab2-parita'
       - '--image'
       - 'us-central1-docker.pkg.dev/parita-personalgcp/parita-100888147/devops-lab2:$COMMIT_SHA'
       - '--region'
